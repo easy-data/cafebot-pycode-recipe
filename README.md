@@ -32,4 +32,4 @@ Following are the code snippets in python to be used in CafeEDA's PyCode Tile-
 
 15. [onesample_statistical_test.py](https://github.com/easy-data/cafebot-pycode-recipe/blob/main/onesample_statistical_tests.py) -[ To perform one sample test]
 
-16. [twosample_statistical_test.py](https://github.com/easy-data/cafebot-pycode-recipe/blob/main/twosample_statiistical.py) -[To perform two sample test]
+16. [twosample_statistical_test.py](https://github.com/easy-data/cafebot-pycode-recipe/blob/main/twosample_statistical.py) -[To perform two sample test]
