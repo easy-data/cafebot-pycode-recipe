@@ -37,10 +37,10 @@ Following are the code snippets in python to be used in CafeEDA's PyCode Tile-
     16. [twosample_statistical_test.py](https://github.com/easy-data/cafebot-pycode-recipe/blob/main/PyCode-Recipes/twosample_statistical.py) -[To perform two sample test]
 
 - PySparkCode-Recipes
-    1. [exp_diff_transformer.py](https://github.com/easy-data/cafebot-pycode-recipe/blob/main/PySparkCode-Recipes/exp_diff_transformer.py) - [Exponentiated difference of two numbers]
+    1. [exp_diff_transformer_spark.py](https://github.com/easy-data/cafebot-pycode-recipe/blob/main/PySparkCode-Recipes/exp_diff_transformer_spark.py) - [Exponentiated difference of two numbers]
 
-    2. [log_transformer.py](https://github.com/easy-data/cafebot-pycode-recipe/blob/main/PySparkCode-Recipes/log_transformer.py) - [Converts integer or float column to their Logarithmic form]
+    2. [log_transformer_spark.py](https://github.com/easy-data/cafebot-pycode-recipe/blob/main/PySparkCode-Recipes/log_transformer_spark.py) - [Converts integer or float column to their Logarithmic form]
 
-    3. [n_power.py](https://github.com/easy-data/cafebot-pycode-recipe/blob/main/PySparkCode-Recipes/n_power.py) - [To calculate the n exponential power of integer or float columns]
+    3. [n_power_spark.py](https://github.com/easy-data/cafebot-pycode-recipe/blob/main/PySparkCode-Recipes/n_power_spark.py) - [To calculate the n exponential power of integer or float columns]
 
-    4. [n_root_mean.py](https://github.com/easy-data/cafebot-pycode-recipe/blob/main/PySparkCode-Recipes/n_root_mean.py) -[To calculate the n root mean of integer or float columns]
+    4. [n_root_mean_spark.py](https://github.com/easy-data/cafebot-pycode-recipe/blob/main/PySparkCode-Recipes/n_root_mean_spark.py) -[To calculate the n root mean of integer or float columns]
